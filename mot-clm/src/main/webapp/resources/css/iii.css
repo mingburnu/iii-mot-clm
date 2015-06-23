@@ -1,0 +1,123 @@
+.table .list-head {
+	background-color: #f2dede;	
+}
+
+.table .list-item0 {
+	background-color: #fcf8e3;
+}
+
+.table .list-item1 {
+	background-color: #d9edf7;
+}
+
+.form-table {
+	width: 100%;
+}
+
+.form-table .form-label {
+	width: 150px;
+	text-align: right;
+	border-spacing: 0px;
+	border-collapse: collapse;
+}
+
+.form-table .form-button {
+	text-align: right;
+}
+
+.heading {
+	width: 8%;
+	margin-top: 0px;
+	padding: 2px;
+	border: 0px 1px 1px 0px solid silver;
+	border-radius: 0px 0px 5px 0px;
+	background-color: #dddddd;
+}
+
+.login-background {
+	margin: 0 auto;
+	padding: 0;
+	width: 100%;
+	height: 100%;
+	background: url(../images/power.jpg);
+	background-position: center top;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	overflow: hidden;
+}
+
+.login-location {
+	padding-top: 320px;
+	padding-left: 300px;
+}
+
+.login-title-text {
+	color: black;
+}
+
+.background {
+	margin: 0 auto;
+	padding: 0;
+	width: 100%;
+	height: 60px;
+	background-color: #AACCFF;
+}
+
+.index-content {
+	background: rgba(100%,100%,100%,0.4);
+	border-radius: 10px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.index-background {
+	margin: 0 auto;
+	padding: 0;
+	width: 100%;
+	height: 768px;
+	background: url(../images/power.jpg);
+	background-position: center top;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+
+.index-padding-left {
+	padding-left: 20px;
+}
+
+.index-padding-menu {
+	padding-left: 15px;
+	padding-right: 11px;
+}
+
+.index-padding-center {
+	padding: 15px 11px 15px 15px;
+}
+
+.index-radius {
+	border-radius: 3px;
+}
+
+.page-padding {
+	padding: 10px 20px 10px 20px;
+}
+
+.other {
+	overflow: hidden;
+	margin: 0 auto;
+	padding: 0;
+	width: 100%;
+	height: 100%;
+	background: url(../images/tree.jpg);
+	background-position: center top;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	filter: alpha(opacity=50);
+	opacity: 0.5;
+	margin-left: 50px;
+	margin-right: 50px;
+}
+
+
+
+
